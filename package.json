@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "tweet": "node tweet.mjs"
+  },
+  "dependencies": {
+    "twitter-api-sdk": "^1.1.0"
+  }
+}
